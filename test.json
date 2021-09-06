@@ -1,27 +1,15 @@
 [
-    {
-        "channelname": "Sky Sports Premier League HD",
-        "details": [
-            {
-                "channelname": "Sky Sports Premier League HD",
-                "livevideo": "http://stream.tvtap.live:8081/live/skysports-premier-league.stream/playlist.m3u8",
-                "image": "https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png",
-                "specie": "Seed Pokémon",
-                "height": 0.7,
-                }
-        ],
-    },
   {
-        "channelname": "Sky Sports Football HD",
-        "details": [
-            {
-                "channelname": "Sky Sports Premier League HD",
-                "livevideo": "http://stream.tvtap.live:8081/live/skysports-football.stream/playlist.m3u8",
-                "image": "https://tvprofil.com/img/kanali-logo/Sky_Sports_Football.png",
-                "specie": "Seed Pokémon",
-                "height": 0.7,
-                }
-        ],
+      "channelname": "Sky Sports Premier League HD",
+      "livevideo": "http://stream.tvtap.live:8081/live/skysports-premier-league.stream/playlist.m3u8",
+       "image": "https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png",
+                
+    },
+   {
+      "channelname": "Sky Sports Premier League HD",
+      "livevideo": "http://stream.tvtap.live:8081/live/skysports-premier-league.stream/playlist.m3u8",
+       "image": "https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png",
+                
     }
   
   ]
