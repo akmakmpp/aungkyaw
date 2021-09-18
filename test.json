@@ -34,9 +34,9 @@
       "match": "Liverpool (8:30) Palace",
      "date" : "18/9/2021",
       "image": "https://mrfixitstips.co.uk/wp-content/uploads/2021/09/MRF2021_LiverpoolvCrystalPalace.jpg",
-     "livelink1": "",
-     "livelink2" : "",
-    "livelink3" : "",
+     "livelink1": "https://google-me.cdn.booyah.live/hls/113130/85565524.m3u8",
+     "livelink2" : "https://d1wazjfrcic0dn.cloudfront.net/out/v1/2d6c8d168f7f47fba2a0761a504e010e/index_3.m3u8?t=1631973271416",
+    "livelink3" : "https://d1wazjfrcic0dn.cloudfront.net/out/v1/2d6c8d168f7f47fba2a0761a504e010e/index_1.m3u8?t=1631973291414",
      
      
      
@@ -49,9 +49,9 @@
       "match": "Burnley (8:30) Arsenal",
      "date" : "18/9/2021",
       "image": "https://mrfixitstips.co.uk/wp-content/uploads/2021/09/MRF2021_BurnleyvArsenal.jpg",
-     "livelink1": "",
-     "livelink2" : "",
-    "livelink3" : "",
+     "livelink1": "https://google-me.cdn.booyah.live/hls/113137/86055317.m3u8",
+     "livelink2" : "https://d3is2jjgab63eh.cloudfront.net/out/v1/f4eacf9951404e9a8f20040b850788da/index_3_56140.ts?from=other&vsid=0000000000000000000000000000000000000000000000000000000000000000&t=1631973141163&abd=1&m=1631633244",
+    "livelink3" : "https://d3is2jjgab63eh.cloudfront.net/out/v1/f4eacf9951404e9a8f20040b850788da/index_1.m3u8?from=other&vsid=0000000000000000000000000000000000000000000000000000000000000000&t=1631973165937&abd=1",
      
      
      
