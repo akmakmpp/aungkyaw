@@ -74,5 +74,20 @@
      "hlmatch": "Sporting CP 1-5 Ajax",
       "hlimage": "https://mrfixitstips.co.uk/wp-content/uploads/2021/09/MRF2021_SportingLisbonvAjax.jpg",
       "hllink": "https://cdn610002.korastadium.com/UpFiles/2021/9/16/42/198532/720p.m3u8"
+    },
+  {
+      "match": "Inter Milan (10:30) Bologna",
+     "date" : "18/9/2021",
+      "image": "https://mrfixitstips.co.uk/wp-content/uploads/2021/09/MRF2021_InterMilanvBologna.jpg",
+     "livelink1": "https://google-me.cdn.booyah.live/hls/113138/86056279.m3u8",
+     "livelink2" : "https://google-me.cdn.booyah.live/hls/113138/86056279.m3u8",
+    "livelink3" : "https://d1sa3vjf6750ed.cloudfront.net/out/v1/de31d14d6b244d6da539bfc9f8a3ab37/index_3.m3u8",
+     
+     
+     
+     
+     "hlmatch": "",
+      "hlimage": "",
+      "hllink": ""
     }
   ]
