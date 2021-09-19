@@ -1,34 +1,5 @@
-[{
-     "match": "ဝက်ဟမ်း (7:30) မန်ယူ",
-     "date" : "19/9/2021",
-      "image": "https://mrfixitstips.co.uk/wp-content/uploads/2021/09/MRF2021_WestHamvManUtd.jpg",
-     "livelink1": "https://6139fcf8a1bf0.streamlock.net/stream1/16/chunklist_w2088352727_tkdG9rZW5lbmR0aW1lPTE2MzIwNzY2ODAmdG9rZW5zdGFydHRpbWU9MTYzMjA1ODY4MCZ0b2tlbmhhc2g9WXpHdXNMak1GVndTZ3kxbUFpcWtaV0tRemN5eVBFMTJwNzdFVkF4bDdFST0=.m3u8",
-     "livelink2" : "https://6139fcf8a1bf0.streamlock.net/stream1/3/chunklist_w577246898_tkdG9rZW5lbmR0aW1lPTE2MzIwNzYyMDAmdG9rZW5zdGFydHRpbWU9MTYzMjA1ODIwMCZ0b2tlbmhhc2g9aHEzU2NNc04yYVE4Ukh4c1Fob3NOTXNEaXBiNzhWd1E4S1FkejBuaTNKVT0=.m3u8",
-    "livelink3" : "https://d1wazjfrcic0dn.cloudfront.net/out/v1/2d6c8d168f7f47fba2a0761a504e010e/index_3.m3u8?from=other&vsid=&t=1632056047658&abd=1",
-     
-     
-    
-    
-     "hlmatch": "Empoli (0-3) Sampdoria", 
-    "hlimage": "https://www.liveonscore.com/wp-content/uploads/2021/09/Empoli-vs-Sampdoria-Preview-and-Prediction-Live-stream-Serie-Tim-A-20212022.jpg",
-    "hllink": "https://cdn640003.korastadium.com/UpFiles/2021/9/19/34/198860/360p.m3u8"
-    },
-  {
-       "match": "လက်စတာ (7:30) ဘရိုက်တန်",
-     "date" : "19/9/2021",
-      "image": "https://mrfixitstips.co.uk/wp-content/uploads/2021/02/MRF2021_LeicestervBrighton.jpg",
-     "livelink1": "https://google-me.cdn.booyah.live/hls/113132/85569341.m3u8",
-     "livelink2" : "https://d3k4qmnvsniwcd.cloudfront.net/out/v1/a6609e8b5b784920a96a9a15bf01f0ba/index_1.m3u8?t=1632056116440",
-    "livelink3" : "https://d3k4qmnvsniwcd.cloudfront.net/out/v1/a6609e8b5b784920a96a9a15bf01f0ba/index_3.m3u8?t=1632056144968",
-     
-     
-     
-    
-      "hlmatch": "Liverpool (3-0) Palace",
-      "hlimage": "https://mrfixitstips.co.uk/wp-content/uploads/2021/09/MRF2021_LiverpoolvCrystalPalace.jpg",
-      "hllink": "https://cdn610002.korastadium.com/UpFiles/2021/9/18/42/198801/720p.m3u8"
-    },
-  {
+[
+     {
       "match": "Real Sociedad (8:45) Sevilla",
      "date" : "19/9/2021",
       "image": "https://www.liveonscore.com/wp-content/uploads/2021/09/Real-Sociedad-vs-Sevilla-Preview-and-Prediction-Live-stream-LaLiga-Santander-20212022.jpg",
@@ -39,9 +10,9 @@
      
      
      
-     "hlmatch": "Genoa 1-2 Fiorentina",
-      "hlimage": "https://www.liveonscore.com/wp-content/uploads/2020/01/Fiorentina-vs-Genoa-Preview-and-Prediction-Live-stream-Serie-Tim-A-2020.jpg",
-      "hllink": "https://cdn610002.korastadium.com/UpFiles/2021/9/15/42/198498/720p.m3u8"
+     "hlmatch": "ဝက်ဟမ်း  1-2 မန်ယူ",
+      "hlimage": "https://mrfixitstips.co.uk/wp-content/uploads/2021/09/MRF2021_WestHamvManUtd.jpg",
+      "hllink": "https://cdn610002.korastadium.com/UpFiles/2021/9/19/42/198897/360p.m3u8"
     },
   { "match": "စပါး (၁၀နာရီ) ချဲလ်ဆီး",
      "date" : "19/9/2021",
@@ -58,7 +29,7 @@
       "hlimage": "https://mrfixitstips.co.uk/wp-content/uploads/2021/09/MRF2021_ManCityvSouthampton.jpg",
       "hllink": "https://cdn610002.korastadium.com/UpFiles/2021/9/18/34/198758/720p.m3u8"
     },
-    {
+     {
       "match": "Dortmund (10:00) Union",
      "date" : "19/9/2021",
       "image": "https://www.liveonscore.com/wp-content/uploads/2021/09/Dortmund-vs-Union-Berlin-Preview-and-Prediction-Live-stream-Bundesliga-20212022.jpg",
@@ -132,5 +103,37 @@
      "hlmatch": "Newcastle  1-1 Leeds", 
     "hlimage": "https://mrfixitstips.co.uk/wp-content/uploads/2021/09/MRF2021_NewcastlevLeedsUtd.jpg", 
     "hllink": "https://cdn640003.korastadium.com/UpFiles/2021/9/17/42/198696/360p.m3u8"
-    } 
+    },
+     {
+     "match": "ဝက်ဟမ်း (7:30) မန်ယူ",
+     "date" : "19/9/2021",
+      "image": "https://mrfixitstips.co.uk/wp-content/uploads/2021/09/MRF2021_WestHamvManUtd.jpg",
+     "livelink1": "",
+     "livelink2" : "",
+    "livelink3" : "",
+     
+     
+    
+    
+     "hlmatch": "Empoli (0-3) Sampdoria", 
+    "hlimage": "https://www.liveonscore.com/wp-content/uploads/2021/09/Empoli-vs-Sampdoria-Preview-and-Prediction-Live-stream-Serie-Tim-A-20212022.jpg",
+    "hllink": "https://cdn640003.korastadium.com/UpFiles/2021/9/19/34/198860/360p.m3u8"
+    },
+  {
+       "match": "လက်စတာ (7:30) ဘရိုက်တန်",
+     "date" : "19/9/2021",
+      "image": "https://mrfixitstips.co.uk/wp-content/uploads/2021/02/MRF2021_LeicestervBrighton.jpg",
+     "livelink1": "",
+     "livelink2" : "",
+    "livelink3" : "",
+     
+     
+     
+    
+      "hlmatch": "Liverpool (3-0) Palace",
+      "hlimage": "https://mrfixitstips.co.uk/wp-content/uploads/2021/09/MRF2021_LiverpoolvCrystalPalace.jpg",
+      "hllink": "https://cdn610002.korastadium.com/UpFiles/2021/9/18/42/198801/720p.m3u8"
+    }
+  
+    
   ]
