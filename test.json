@@ -1,11 +1,11 @@
 [
   {
-      "match": "Inter Milan (10:30) Bologna",
-     "date" : "18/9/2021",
-      "image": "https://mrfixitstips.co.uk/wp-content/uploads/2021/09/MRF2021_InterMilanvBologna.jpg",
-     "livelink1": "https://google-me.cdn.booyah.live/hls/113138/86056279.m3u8",
-     "livelink2" : "https://google-me.cdn.booyah.live/hls/113138/86056279.m3u8",
-    "livelink3" : "https://d1sa3vjf6750ed.cloudfront.net/out/v1/de31d14d6b244d6da539bfc9f8a3ab37/index_3.m3u8",
+       "match": "လက်စတာ (7:30) ဘရိုက်တန်",
+     "date" : "19/9/2021",
+      "image": "https://mrfixitstips.co.uk/wp-content/uploads/2021/02/MRF2021_LeicestervBrighton.jpg",
+     "livelink1": "",
+     "livelink2" : "",
+    "livelink3" : "",
      
      
      
@@ -15,12 +15,12 @@
       "hllink": "https://cdn610002.korastadium.com/UpFiles/2021/9/18/42/198760/720p.m3u8"
     },
   {
-      "match": "Aston Villa (11:00) Everton",
-     "date" : "18/9/2021",
-      "image": "https://mrfixitstips.co.uk/wp-content/uploads/2021/09/MRF2021_AstonVillavEverton.jpg",
-     "livelink1": "https://google-me.cdn.booyah.live/hls/113137/85565524.m3u8",
-     "livelink2" : "https://d1wazjfrcic0dn.cloudfront.net/out/v1/2d6c8d168f7f47fba2a0761a504e010e/index_3.m3u8?from=other&vsid=0000000000000000000000000000000000000000000000000000000000000000&t=1631981788581&abd=1",
-    "livelink3" : "https://d1wazjfrcic0dn.cloudfront.net/out/v1/2d6c8d168f7f47fba2a0761a504e010e/index_1.m3u8?from=other&vsid=0000000000000000000000000000000000000000000000000000000000000000&t=1631981832190&abd=1",
+     "match": "ဝက်ဟမ်း (7:30) မန်ယူ",
+     "date" : "19/9/2021",
+      "image": "https://mrfixitstips.co.uk/wp-content/uploads/2021/09/MRF2021_WestHamvManUtd.jpg",
+     "livelink1": "",
+     "livelink2" : "",
+    "livelink3" : "",
      
      
     
@@ -29,10 +29,9 @@
     "hlimage": "https://mrfixitstips.co.uk/wp-content/uploads/2021/09/MRF2021_BurnleyvArsenal.jpg",
     "hllink": "https://cdn610002.korastadium.com/UpFiles/2021/9/18/42/198765/720p.m3u8"
     },
-  {
-      "match": "လက်စတာ (7:30) ဘရိုက်တန်",
+  { "match": "စပါး (၁၀နာရီ) ချဲလ်ဆီး",
      "date" : "19/9/2021",
-      "image": "https://mrfixitstips.co.uk/wp-content/uploads/2021/02/MRF2021_LeicestervBrighton.jpg",
+      "image": "https://mrfixitstips.co.uk/wp-content/uploads/2021/09/MRF2021_SpursvChelsea.jpg",
      "livelink1": "",
      "livelink2" : "",
     "livelink3" : "",
@@ -54,12 +53,12 @@
     "livelink3" : "",
      
      
+    
+    
      
-     
-     
-     "hlmatch": "Rayo Vallecano 3-0 Getafe", 
-    "hlimage": "https://artwork.espncdn.com/events/401342145/16x9/1280x720_20210908214339.png", 
-    "hllink": "https://cdn610002.korastadium.com/UpFiles/2021/9/18/34/198726/360p.m3u8"
+     "hlmatch": "Inter 6-1 Bologna",
+      "hlimage": "https://mrfixitstips.co.uk/wp-content/uploads/2021/09/MRF2021_InterMilanvBologna.jpg",
+      "hllink": "https://cdn610002.korastadium.com/UpFiles/2021/9/18/42/198811/720p.m3u8"
     },
   {
       "match": "စပါး (၁၀နာရီ) ချဲလ်ဆီး",
@@ -136,6 +135,21 @@
      "hlmatch": "Augsburg 1-0 Monchengladbach",
       "hlimage": "https://mrfixitstips.co.uk/wp-content/uploads/2021/03/MRF2021_AugsburgvBorussiaMonchen-1038x519.jpg",
       "hllink": "https://cdn640003.korastadium.com/UpFiles/2021/9/18/34/198747/360p.m3u8"
+    },
+  {
+      "match": "Atletico Madrid (8:45) Bilbao ",
+     "date" : "18/9/2021",
+      "image": "https://mrfixitstips.co.uk/wp-content/uploads/2021/03/MRF2021_AtleticoMadridvAthleticBilbao.jpg",
+     "livelink1": "https://google-me.cdn.booyah.live/hls/113130/86056279.m3u8",
+     "livelink2" : "https://d3k4qmnvsniwcd.cloudfront.net/out/v1/a6609e8b5b784920a96a9a15bf01f0ba/index_3.m3u8?from=other&vsid=0000000000000000000000000000000000000000000000000000000000000000&t=1631973898664&abd=",
+    "livelink3" : "https://d3k4qmnvsniwcd.cloudfront.net/out/v1/a6609e8b5b784920a96a9a15bf01f0ba/index_1.m3u8?from=other&vsid=0000000000000000000000000000000000000000000000000000000000000000&t=1631973927243&abd=1",
+     
+     
+    
+    
+     "hlmatch": "Rayo Vallecano 3-0 Getafe", 
+    "hlimage": "https://artwork.espncdn.com/events/401342145/16x9/1280x720_20210908214339.png", 
+    "hllink": "https://cdn610002.korastadium.com/UpFiles/2021/9/18/34/198726/360p.m3u8"
     }
   
   ]
